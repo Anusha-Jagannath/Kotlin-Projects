@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OrderClass1" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-30T06:18:49" hostname="195AMBBLR-Anusha-Jagannath-Soorenji.local" time="0.008">
+  <properties/>
+  <testcase name="test1()" classname="OrderClass1" time="0.008"/>
+  <system-out><![CDATA[Setup1
+Running OrderClass1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

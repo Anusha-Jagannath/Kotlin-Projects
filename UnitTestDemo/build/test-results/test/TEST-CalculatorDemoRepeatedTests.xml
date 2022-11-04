@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorDemoRepeatedTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-30T06:18:49" hostname="195AMBBLR-Anusha-Jagannath-Soorenji.local" time="0.011">
+  <properties/>
+  <testcase name="Division by zero.Repetition 1 of 3" classname="CalculatorDemoRepeatedTests" time="0.008"/>
+  <testcase name="Division by zero.Repetition 2 of 3" classname="CalculatorDemoRepeatedTests" time="0.001"/>
+  <testcase name="Division by zero.Repetition 3 of 3" classname="CalculatorDemoRepeatedTests" time="0.001"/>
+  <system-out><![CDATA[Current repetition number 1
+Repetition number 3
+Test info Division by zero.Repetition 1 of 3
+Test infotestIntegerDivision_WhenDividendDividedByZero_ShouldThrowArithmeticException
+Current repetition number 2
+Repetition number 3
+Test info Division by zero.Repetition 2 of 3
+Test infotestIntegerDivision_WhenDividendDividedByZero_ShouldThrowArithmeticException
+Current repetition number 3
+Repetition number 3
+Test info Division by zero.Repetition 3 of 3
+Test infotestIntegerDivision_WhenDividendDividedByZero_ShouldThrowArithmeticException
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
